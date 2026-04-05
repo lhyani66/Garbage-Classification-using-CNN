@@ -9,16 +9,6 @@ This project uses a Convolutional Neural Network (CNN) to classify garbage image
 - Input size: 224 x 224 images
 - Output: Multi-class classification (softmax)
 
-## 📂 Dataset
-The dataset should be organized in the following structure:
-
-dataset/
-  ├── class_1/
-  ├── class_2/
-  ├── class_3/
-  └── ...
-
-Each folder represents a class label.
 
 ## ⚙️ Installation
 
@@ -54,4 +44,5 @@ The model is evaluated on validation data and performance metrics are displayed 
 - Scikit-learn
 
 ## 👤 Author
-Your Name
+Salem Allehyani
+
